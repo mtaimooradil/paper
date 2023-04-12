@@ -1,5 +1,5 @@
 # Title
-Comparison of deep learning based pose estimation algorithms for clinical gait analysis
+Comparison of deep learning based computer vision techniques for TUG test
 
 # Author
 Muhammad Taimoor Adil
