@@ -14,3 +14,6 @@ Alphapose (alphapose, 2022) and Mediapipe (mediapipe, 2020) by google are also u
 
 # Algorithms
 Algorithms are classified into top down and bottom down approaches.
+
+# Methodology
+This is the methodology of this paper taken from (reference 2023).
