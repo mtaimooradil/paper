@@ -11,3 +11,6 @@ Clinical gait analysis is usually done with expensive motion capture systems but
 Gait analysis was performed using Openpose (Z. Cao et al. 2019)
 
 Alphapose (alphapose, 2022) and Mediapipe (mediapipe, 2020) by google are also used for pose estimations.
+
+# Algorithms
+Algorithms are classified into top down and bottom down approaches.
