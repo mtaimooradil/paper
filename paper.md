@@ -20,3 +20,6 @@ This is the methodology of this paper taken from (reference 2023).
 
 # Results
 This is the results section.
+
+# Conclusion
+These are the conclusions section.
