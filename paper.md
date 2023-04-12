@@ -18,3 +18,4 @@ Algorithms are classified into top down and bottom down approaches.
 # Methodology
 This is the methodology of this paper taken from (reference 2023).[A[A[A[A[B[B[B[B# Results 
 This si the results section for comparison and analysis.
+git commit
